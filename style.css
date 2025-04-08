@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  body{
+    background-color: black;
+  }
+  .container{
+    margin: 200px 50px 0 0;
+  }
+  .choice-button {
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    background-color: rgb(164, 212, 130);
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  .reset-btn{
+    font-size:30px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgb(30, 28, 28);
+    border: none;
+    color:crimson;
+    text-shadow: 0 0 2px green,0 0 4px rgb(47, 113, 255);
+  }
+  .choice-image {
+    height: 75px;
+  }
+  h1{
+    color:rgb(245, 8, 55);
+    text-shadow: 0 0 2px green,0 0 4px rgb(47, 113, 255);
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+  h3{
+    margin:20px;
+    font-size: 30px;
+    color:crimson;
+    text-shadow: 0 0 2px green,0 0 4px rgb(47, 113, 255);
+  }
